@@ -1,0 +1,15 @@
+/* line 1, ../sass/_base.scss */
+body {
+  color: grey;
+}
+
+/* line 5, ../sass/_base.scss */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 1, ../sass/_footer.scss */
+footer {
+  background-color: black;
+}
